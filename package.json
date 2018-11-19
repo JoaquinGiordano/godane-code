@@ -1,0 +1,14 @@
+{
+  "name": "godanecode",
+  "version": "1.0.0",
+  "description": "Encode and Decode text into GodaneCode",
+  "main": "godanecode.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoaquinGiordano/GodaneCode.git"
+  },
+  "author": "Joaquin Giordano <joaquin_giordano@outlook.com>"
+}
